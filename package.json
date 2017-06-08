@@ -1,0 +1,31 @@
+{
+  "name": "ki-bootstrapper",
+  "version": "1.0.0",
+  "description": "A script that creates a script that creates a script ...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinyo-Robin/ki-bootstrapper.git"
+  },
+  "keywords": [
+    "ki",
+    "ai",
+    "node",
+    "bootstrap",
+    "singularity"
+  ],
+  "author": "Robin Backhaus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jinyo-Robin/ki-bootstrapper/issues"
+  },
+  "homepage": "https://github.com/Jinyo-Robin/ki-bootstrapper#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
